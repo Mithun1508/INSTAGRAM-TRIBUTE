@@ -57,5 +57,5 @@ npm install -g firebase-tools
 
 3)We were able to add MVP functionalities such as signing up, viewing posts, adding comments to posts. Feel free to add more functionalities to improve your developer skills.
 
-# Checkout My Firebase Deployment here
+# Checkout My Firebase Deployment Status here
 https://console.firebase.google.com/project/instgram-tribute/overview
